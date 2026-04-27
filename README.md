@@ -15,7 +15,7 @@ git push → upload to GitHub
 git pull → download changes  
 git log → show history  
 git diff → show changes  
-
+git log --oneline → show short, one-line history
 ## Challenges
 - Merge conflict in README
 - Branch switching
